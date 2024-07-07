@@ -876,5 +876,5 @@ function สร้างวเลสSub(ไอดีผู้ใช้_เส้
 }
 
 const cn_hostnames = [
-	'www.google.com.mm'
+	'www.myanmaraviationsupports.com'
 ];
